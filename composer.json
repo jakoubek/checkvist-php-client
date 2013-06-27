@@ -1,0 +1,24 @@
+{
+    "name": "jakoubek/checkvist-php-client",
+    "description": "Access to the Checkvist.com API via PHP.",
+    "homepage": "https://github.com/jakoubek/checkvist-php-client",
+    "license": "MIT",
+    "keywords": ["API", "Outline", "Checklist"],
+    "authors": [
+        {
+            "name": "Oliver Jakoubek",
+            "email": "mail@oliverjakoubek.de"
+        }
+    ],
+    "type": "library",
+	"require": {
+        "php": ">=5.3.0",
+		"guzzle/guzzle": "3.5.*"
+	},
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-0": { "jakoubek\\Checkvist": "src/" }
+    }
+}
