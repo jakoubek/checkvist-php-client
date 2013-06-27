@@ -1,6 +1,6 @@
 {
     "name": "jakoubek/checkvist-php-client",
-    "description": "Access to the Checkvist.com API via PHP.",
+    "description": "Access the Checkvist.com API via PHP.",
     "homepage": "https://github.com/jakoubek/checkvist-php-client",
     "license": "MIT",
     "keywords": ["API", "Outline", "Checklist"],
